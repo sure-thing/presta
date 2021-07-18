@@ -1,6 +1,6 @@
 {
   "name": "@presta/adapter-netlify",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Netlify adapter for Presta.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -25,7 +25,7 @@
   "dependencies": {
     "fs-extra": "^10.0.0",
     "netlify-redirect-parser": "^8.0.0",
-    "presta": "workspace:^0.35.0",
+    "presta": "workspace:^0.35.1",
     "toml": "^3.0.0"
   }
 }
