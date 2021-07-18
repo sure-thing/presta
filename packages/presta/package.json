@@ -1,6 +1,6 @@
 {
   "name": "presta",
-  "version": "0.35.0",
+  "version": "0.35.1",
   "description": "Hyper minimal framework for the modern web.",
   "main": "index.js",
   "types": "index.d.ts",

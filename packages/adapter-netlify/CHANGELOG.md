@@ -1,5 +1,14 @@
 # @presta/adapter-netlify
 
+## 0.1.2
+
+### Patch Changes
+
+- [`17ba054`](https://github.com/sure-thing/presta/commit/17ba054a323e44a6c62270cc74dbd88eba8cdfa8) Thanks [@estrattonbailey](https://github.com/estrattonbailey)! - Adds additional export of getCurrentPrestaInstance
+
+- Updated dependencies [[`17ba054`](https://github.com/sure-thing/presta/commit/17ba054a323e44a6c62270cc74dbd88eba8cdfa8)]:
+  - presta@0.35.1
+
 ## 0.1.1
 
 ### Patch Changes
